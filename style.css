@@ -1,0 +1,48 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+
+  }
+/*начало header*/
+.main {
+height: 10vh;
+background-color: rgb(226, 225, 225);
+margin: 0;
+padding: 0;
+}
+
+/*конец header*/
+
+
+/*начало main */
+.common {
+    display: flex;
+    height: 85vh;
+    margin: 0;
+    padding: 0;
+}
+
+.leftMain {
+    background-color: rgb(185, 184, 184);
+    width: 20%;
+    
+
+}
+
+.rightMain {
+    background-color: rgb(141, 140, 140);
+    width: 80%;
+  
+}
+
+/*конец main */
+
+/*начало footer */
+.basement {
+    background-color: rgb(99, 97, 97);
+    height: 5vh;
+    margin: 0;
+    padding: 0;
+}
+/*конец footer */
